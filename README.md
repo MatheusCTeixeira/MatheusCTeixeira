@@ -11,6 +11,6 @@ Projetos em que estou desenvolvendo:
 - :rocket: Programação Linear/Paralela com C++.
 - :wrench: Metaprogramação com C++.
 
-TODO:
+Para o futuro (não tão distante):
 - :alarm_clock: Schedule tool.
 - :dog: PetFinder: uma plataforma para procura e informações de animais perdidos.
