@@ -10,7 +10,4 @@ Projetos em que estou desenvolvendo:
 - :white_check_mark: Desenvolvimento de WebServices RESTful com Spring Boot framework.
 - :rocket: Programação Linear/Paralela com C++.
 - :wrench: Metaprogramação com C++.
-
-Para o futuro (não tão distante):
-- :alarm_clock: Schedule tool.
-- :dog: PetFinder: uma plataforma para procura e informações de animais perdidos.
+- () User classification.
